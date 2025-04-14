@@ -1,0 +1,657 @@
+LOCUS       MN168306                 780 bp    DNA     linear   VRT 31-JUL-2020
+DEFINITION  Falco peregrinus aquaporin 14 (Aqp14) gene, complete cds.
+ACCESSION   MN168306
+VERSION     MN168306.1
+KEYWORDS    .
+SOURCE      Falco peregrinus (peregrine falcon)
+  ORGANISM  Falco peregrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Telluraves; Australaves;
+            Falconiformes; Falconidae; Falco.
+REFERENCE   1  (bases 1 to 780)
+  AUTHORS   Chauvigne,F., Yilmaz,O., Ferre,A., Fjelldal,P.G., Finn,R.N. and
+            Cerda,J.
+  TITLE     The genomic landscape and function of the fourtheenth subfamily of
+            vertebrate water channels (Aqp14)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 780)
+  AUTHORS   Chauvigne,F., Yilmaz,O., Ferre,A., Fjelldal,P.G., Finn,R.N. and
+            Cerda,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUL-2019) Department of Biological Sciences,
+            University of Bergen, Bergen High Technology Centre, Bergen, NO
+            5020, Norway
+FEATURES             Location/Qualifiers
+     source          1..780
+                     /organism="Falco peregrinus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8954"
+     gene            <1..>780
+                     /gene="Aqp14"
+     mRNA            <1..>780
+                     /gene="Aqp14"
+                     /product="aquaporin 14"
+     CDS             1..780
+                     /gene="Aqp14"
+                     /codon_start=1
+                     /product="aquaporin 14"
+                     /protein_id="QKE22991.1"
+                     /translation="MAIREELRSWCFWQGVLVEAVATLIFVGVVLGASVDPRPLAPAL
+                     AGGLVAGALVCTLRAPQANPALTLALLCTRKLSALRGAAGLLAQCTGAVLASAIARLA
+                     LPDDTSLVTRVSAAGTAGQALAWETFATFQLALAAFATTDQVAPQGGLALGSAVAALA
+                     LAAGPFSGGSMNPARSLGPAIVTGIWDDHWVSWLGPVLCAVLAGLSYEFIFAPGASRE
+                     KLGACLACRDVALVETTSPSPSSASTRGHPAPPAERDQGTA"
+ORIGIN      
+        1 atggccatca gggaggagct gcggagctgg tgcttctggc agggggtgct ggtggaggct
+       61 gtggccacgc tcatcttcgt gggagtggtg ctgggcgcct cagtggaccc cagacccctg
+      121 gcaccagcgt tggccggggg tctggtggca ggggcgctgg tctgcaccct cagggcaccc
+      181 caggccaacc cggcgctcac cctggccctg ctctgcaccc gcaagctgag tgccctgcgt
+      241 ggggccgccg ggctcctggc acagtgcacc ggggctgtgc tggcctccgc catcgcccgc
+      301 ctggcgctgc cggatgacac cagccttgtc accagggtga gcgcagcggg gacggcggga
+      361 caagccctgg cctgggagac ctttgccacc ttccagctgg cgctggctgc ctttgccacc
+      421 accgaccagg tggcccccca gggtgggctg gctctgggca gcgctgtggc tgcccttgcc
+      481 ctggctgcgg ggccgttctc ggggggcagc atgaacccag cgcgttcgct ggggccagcc
+      541 atcgtcactg gcatctggga tgaccactgg gtgagttggc tggggccggt gctgtgtgcg
+      601 gtgctggccg ggctctccta cgagttcatc ttcgcccccg gcgcatcccg ggagaagctg
+      661 ggtgcctgcc tcgcctgccg ggacgtggca ctggtggaga ccaccagccc atccccctcc
+      721 tcagcctcca cccgcggcca cccagccccc ccggctgagc gagaccaggg cacggcctga
+//
+
+LOCUS       DQ165481                 684 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Falco peregrinus R2 cytochrome oxidase subunit II (COXII) gene,
+            complete cds; mitochondrial.
+ACCESSION   DQ165481
+VERSION     DQ165481.1
+KEYWORDS    .
+SOURCE      mitochondrion Falco peregrinus (peregrine falcon)
+  ORGANISM  Falco peregrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Telluraves; Australaves;
+            Falconiformes; Falconidae; Falco.
+REFERENCE   1  (bases 1 to 684)
+  AUTHORS   Berlin,S. and Ellegren,H.
+  TITLE     Evolutionary genetics. Clonal inheritance of avian mitochondrial
+            DNA
+  JOURNAL   Nature 413 (6851), 37-38 (2001)
+   PUBMED   11544517
+REFERENCE   2  (bases 1 to 684)
+  AUTHORS   Berlin,S. and Ellegren,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-2005) Evolutionary Biology, Uppsala University,
+            Norbyvagen 18D, Uppsala 75236, Sweden
+FEATURES             Location/Qualifiers
+     source          1..684
+                     /organism="Falco peregrinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="R2"
+                     /db_xref="taxon:8954"
+     gene            1..>684
+                     /gene="COXII"
+     CDS             1..684
+                     /gene="COXII"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit II"
+                     /protein_id="AAZ76859.1"
+                     /translation="MANQSQLGFQDASSPIMEELVEFHDHALMVALAICSLVLYLLTL
+                     MLAEKLSSNTVDAQEVELIWTILPAIVLILLALPSLQILYMMDEIDEPDLTLKAIGHQ
+                     WYWAYEYTDFKDLTFDSYMIPTTELPSGHFRLLEVDHRIVIPMESPIRIIITANDVLH
+                     SWAVPSLGVKTDAIPGRLNQTSFITTRPGVFYGQCSEICGANHSYMPIVVESTPLTHF
+                     EHWSTLLSS"
+ORIGIN      
+        1 atggccaacc aatcccaact cggatttcaa gatgcctcct caccaatcat ggaagagctc
+       61 gtagaatttc acgaccacgc attaatggtt gcacttgcaa tctgtagcct ggtcctatac
+      121 ctactgacac ttatgctagc agaaaaacta tcctccaaca ctgtagatgc acaagaagta
+      181 gaacttatct gaacgatcct accagccatc gtcctcatcc tacttgccct accatccctg
+      241 caaatcctat atataataga cgaaattgat gaacccgatt taactttaaa agccatcgga
+      301 caccaatgat attgagctta cgaatataca gacttcaaag acctgacatt cgactcctat
+      361 ataatcccaa ccacagagct cccctcagga cactttcgac tactggaagt agaccatcgt
+      421 attgtaatcc cgatggaatc cccaattcgc atcatcatca ccgccaacga cgtactccac
+      481 tcatgagccg tcccctccct aggggtaaaa actgatgcaa ttccaggacg actcaaccaa
+      541 acatccttca tcacaactcg accaggcgtt ttctacggcc aatgctcaga aatctgtgga
+      601 gccaatcaca gctacatacc aatcgtagta gaatcaaccc ccctaaccca tttcgaacac
+      661 tgatccacac tcctatcatc ctaa
+//
+
+LOCUS       DQ165480                 684 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Falco peregrinus OK67 cytochrome oxidase subunit II (COXII) gene,
+            complete cds; mitochondrial.
+ACCESSION   DQ165480
+VERSION     DQ165480.1
+KEYWORDS    .
+SOURCE      mitochondrion Falco peregrinus (peregrine falcon)
+  ORGANISM  Falco peregrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Telluraves; Australaves;
+            Falconiformes; Falconidae; Falco.
+REFERENCE   1  (bases 1 to 684)
+  AUTHORS   Berlin,S. and Ellegren,H.
+  TITLE     Evolutionary genetics. Clonal inheritance of avian mitochondrial
+            DNA
+  JOURNAL   Nature 413 (6851), 37-38 (2001)
+   PUBMED   11544517
+REFERENCE   2  (bases 1 to 684)
+  AUTHORS   Berlin,S. and Ellegren,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-2005) Evolutionary Biology, Uppsala University,
+            Norbyvagen 18D, Uppsala 75236, Sweden
+FEATURES             Location/Qualifiers
+     source          1..684
+                     /organism="Falco peregrinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="OK67"
+                     /db_xref="taxon:8954"
+     gene            1..>684
+                     /gene="COXII"
+     CDS             1..684
+                     /gene="COXII"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit II"
+                     /protein_id="AAZ76858.1"
+                     /translation="MANQSQLGFQDASSPIMEELVEFHDHALMVALAICSLVLYLLTL
+                     MLAEKLSSNTVDAQEVELIWTILPAIVLILLALPSLQILYMMDEIDEPDLTLKAIGHQ
+                     WYWAYEYTDFKDLTFDSYMIPTTELPSGHFRLLEVDHRIVIPMESPIRIIITANDVLH
+                     SWAVPSLGVKTDAIPGRLNQTSFITTRPGVFYGQCSEICGANHSYMPIVVESTPLTHF
+                     EHWSTLLSS"
+ORIGIN      
+        1 atggccaacc aatcccaact cggatttcaa gatgcctcct caccaatcat ggaagagctc
+       61 gtagaatttc acgaccacgc attaatggtt gcacttgcaa tctgtagcct ggtcctatac
+      121 ctactgacac ttatgctagc agaaaaacta tcctccaaca ctgtagatgc acaagaagta
+      181 gaacttatct gaacgatcct accagccatc gtcctcatcc tacttgccct accatccctg
+      241 caaatcctat atataataga cgaaattgat gaacccgatt taactttaaa agccatcgga
+      301 caccaatgat attgagctta cgaatataca gacttcaaag acctgacatt cgactcctat
+      361 ataatcccaa ccacagagct cccctcagga cactttcgac tactggaagt agaccatcgt
+      421 attgtaatcc cgatggaatc cccaattcgc atcatcatca ccgccaacga cgtactccac
+      481 tcatgagccg tcccctccct aggggtaaaa actgatgcaa ttccaggacg actcaaccaa
+      541 acatccttca tcacaactcg accaggcgtt ttctacggcc aatgctcaga aatctgtgga
+      601 gccaatcaca gctacatacc aatcgtagta gaatcaaccc ccctaaccca tttcgaacac
+      661 tgatccacac tcctgtcatc ctaa
+//
+
+LOCUS       FPU83307                1143 bp    DNA     linear   VRT 24-JUL-2016
+DEFINITION  Falco peregrinus cytochrome b (cytb) gene, mitochondrial gene
+            encoding mitochondrial protein, complete cds.
+ACCESSION   U83307
+VERSION     U83307.1
+KEYWORDS    .
+SOURCE      mitochondrion Falco peregrinus (peregrine falcon)
+  ORGANISM  Falco peregrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Telluraves; Australaves;
+            Falconiformes; Falconidae; Falco.
+REFERENCE   1  (bases 1 to 1143)
+  AUTHORS   Griffiths,C.S.
+  TITLE     Correlation of functional domains and rates of nucleotide
+            substitution in cytochrome b
+  JOURNAL   Mol. Phylogenet. Evol. 7 (3), 352-365 (1997)
+   PUBMED   9187094
+REFERENCE   2  (bases 1 to 1143)
+  AUTHORS   Griffiths,C.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-DEC-1996) Ornithology, American Museum of Natural
+            History, Central Park West at 79th St., New York, NY 10024, USA
+FEATURES             Location/Qualifiers
+     source          1..1143
+                     /organism="Falco peregrinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8954"
+     gene            1..1143
+                     /gene="cytb"
+     CDS             1..1143
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAC60233.1"
+                     /translation="MAPNIRKSHPLVKMINNSLIDLPTPPNISIWWNFGSLLGICLAT
+                     QILTGLLLAMHYTADTTLAFSSVAHTCRNVQYGWLIRNLHANGASLFFICIYMHIGRG
+                     IYYGSYLYKETWNTGIILLLTLMATAFVGYVLPWGQMSFWGATVITNLFSAIPYIGQT
+                     LVEWAWGGFSVDNPTLTRFFALHFLLPFLIAGLTLIHLTFLHESGSNNPLGITSNCDK
+                     IPFHPYYSLKDILGFMLMYLPLMTLALFTPNLLGDPENFTPANPLVTPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVLALAASVLILFLSPLLHKSKQRTMTFRPLSQSLFWLLVTNLL
+                     ILTWVGSQPVEHPFIIIGQLASLSYFTTLLILLPLTGALENKILNY"
+ORIGIN      
+        1 atggcaccca acattcgaaa atcacaccct ttagtaaaaa taatcaataa ctccctaatt
+       61 gaccttccca ctccacccaa catctccatt tgatgaaact ttggatccct actaggaatc
+      121 tgtctagcca cccaaatcct aactggccta ttgctagcca tacactacac agcggataca
+      181 accctagcct tttcatccgt cgcccacaca tgtcgaaacg tacaatacgg atgactaatc
+      241 cgcaacctac atgccaacgg agcatcctta ttcttcatct gtatctacat acacattggg
+      301 cgaggcattt actacggctc ttatttgtat aaagaaacct ggaatacagg catcatcctt
+      361 ctactcaccc taatagcaac agccttcgta ggctatgtac taccctgagg acaaatatca
+      421 ttctgaggag ccacagtcat taccaaccta ttctcagcaa tcccatacat cggccaaacc
+      481 ctagtcgaat gggcttgagg gggattttca gtagacaacc caacactgac ccgattcttc
+      541 gccctacact tcctacttcc attcctaatc gcaggactca ccctaatcca cctcaccttc
+      601 ctacatgaat caggctcaaa taacccccta ggaatcacat caaattgcga caaaatccca
+      661 ttccacccat actactctct caaagacatc ctaggattta tactcatata cctgccccta
+      721 ataaccctag ccctatttac cccaaacctg ctaggagacc cagaaaactt tacaccagca
+      781 aatcccctag tcaccccccc acacatcaaa ccagaatgat acttcctatt tgcttacgcc
+      841 atcctacgct caatccccaa taaactgggc ggagtcctag cactagccgc ctcagtacta
+      901 atcttattcc tgagcccact actccacaaa tccaaacaac gcacaataac cttccgccct
+      961 ctatcccagt cactattctg acttctagtc accaacctac tcatcctaac ctgagtagga
+     1021 agccaacccg ttgagcaccc gttcatcatc attggccaac tagcttcact ctcctacttc
+     1081 acaacccttc taatcctcct cccccttacc ggggccctag aaaacaaaat cctaaactac
+     1141 taa
+//
+
+LOCUS       KR269733                 810 bp    mRNA    linear   VRT 04-JUL-2015
+DEFINITION  Falco peregrinus clone B opioid receptor Kappa 1 isoform B (OPRK1)
+            mRNA, complete cds, alternatively spliced.
+ACCESSION   KR269733
+VERSION     KR269733.1
+KEYWORDS    .
+SOURCE      Falco peregrinus (peregrine falcon)
+  ORGANISM  Falco peregrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Telluraves; Australaves;
+            Falconiformes; Falconidae; Falco.
+REFERENCE   1  (bases 1 to 810)
+  AUTHORS   Raiwet,D.L., Duhamelle,A., Fitzgerald,G. and Silversides,D.W.
+  TITLE     Opioid receptor gene expression in the Peregrine Falcon
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 810)
+  AUTHORS   Raiwet,D.L., Duhamelle,A., Fitzgerald,G. and Silversides,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-APR-2015) Veterinary Biomedicine, Faculty of
+            Veterinary Medicine, 3200 Sicotte, St-Hyacinthe, Quebec J2S 7C6,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..810
+                     /organism="Falco peregrinus"
+                     /mol_type="mRNA"
+                     /specimen_voucher="AD.7.13"
+                     /db_xref="taxon:8954"
+                     /clone="B"
+                     /geo_loc_name="Canada: Quebec"
+     gene            1..810
+                     /gene="OPRK1"
+     CDS             7..648
+                     /gene="OPRK1"
+                     /note="alternatively spliced"
+                     /codon_start=1
+                     /product="opioid receptor Kappa 1 isoform B"
+                     /protein_id="AKN79680.1"
+                     /translation="MDAPVQIFREETESTCSPVPCRAPSTSGSWLLGWVDYDSNATGA
+                     FGGTQHNHTSISPAIPIIITAVYSVVFVVGLVGNSLVMFVIIRYTKMKTATNIYIFNL
+                     AMADALVTTTMPFQSTEYLMNSWPFGDVLCKIVISIDYYNMFTSIFTLTMMSVDRYIA
+                     VCHPVKALDFRTPLKAKIINICIWLLSSSVGISAIVLGGTKVREAISENLKAW"
+ORIGIN      
+        1 gtccctatgg atgccccggt acagattttc cgggaggaga cagaatccac ctgctccccg
+       61 gtgccctgtc gtgcccccag caccagcggc agctggctcc tgggctgggt ggactacgac
+      121 agcaatgcca ccggggcctt cggtggcacc cagcacaacc acaccagcat ctcccctgcc
+      181 atccccatca tcatcactgc tgtctactcg gtggtcttcg ttgttggttt ggtgggaaat
+      241 tctctggtca tgtttgtcat cataagatac acaaagatga agacagcaac caacatctac
+      301 attttcaatc tggctatggc agatgcacta gttaccacga ctatgccttt ccaaagcact
+      361 gagtacctga tgaactcttg gccctttggt gatgtgctct gtaaaatagt tatttcaatt
+      421 gactattata acatgtttac cagcatattc acactgacca tgatgagtgt tgatcgatac
+      481 attgccgtgt gtcaccctgt gaaggctctg gacttccgta cacctctcaa ggcgaagata
+      541 atcaacatct gtatctggct attgtcctca tctgttggta tatctgcaat agttcttgga
+      601 ggtaccaaag tcagggaagc catttcagag aacttgaagg catggtgaac aaaggaaaag
+      661 tctggagaaa gaaaatcaag ctaaatgata catgcatgac tgcaatgcag gagcacctca
+      721 gtgtcttcaa aaggtttgaa tcctctaatg atgtccttgg gttggggcca tcttgttaat
+      781 ggatggctca ataaaataca agacaagcat
+//
+
+LOCUS       KP234026                 868 bp    mRNA    linear   PLN 22-AUG-2016
+DEFINITION  Malus domestica cultivar Malus domestica cv. Fuji phi class
+            glutathione S-transferase (GSTF3) mRNA, complete cds.
+ACCESSION   KP234026
+VERSION     KP234026.1
+KEYWORDS    .
+SOURCE      Malus domestica (apple)
+  ORGANISM  Malus domestica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Rosaceae; Amygdaloideae;
+            Maleae; Malus.
+REFERENCE   1  (bases 1 to 868)
+  AUTHORS   Fan,L.-M., Liu,G.-S., Li,S.-Q. and Yuan,Y.-B.
+  TITLE     Cloning and Expression Analysis of Glutathione S-Transferase Gene
+            MdGSTF3 from Apple (Malus domestica)
+  JOURNAL   Zhi Wu Sheng Li Xue Bao (2011) 51 (9), 1502-1512 (2015)
+REFERENCE   2  (bases 1 to 868)
+  AUTHORS   Fan,L., Liu,G., Wang,C. and Yuan,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-DEC-2014) College of Life Science, Qingdao
+            Agricultural University, No. 700, Changcheng Road, Chengyang
+            District, Qingdao, Shandong 266109, China
+FEATURES             Location/Qualifiers
+     source          1..868
+                     /organism="Malus domestica"
+                     /mol_type="mRNA"
+                     /cultivar="Malus domestica cv. Fuji"
+                     /db_xref="taxon:3750"
+                     /tissue_type="pericarp"
+     gene            1..868
+                     /gene="GSTF3"
+                     /note="MdGSTF3"
+     CDS             50..691
+                     /gene="GSTF3"
+                     /codon_start=1
+                     /product="phi class glutathione S-transferase"
+                     /protein_id="AKP24040.1"
+                     /translation="MAAIKVHGNVISTAAMRVFATLYEKDIEFELVPIDMRAGEHKKE
+                     PFISLNPFGQVPAFEDGDLKLFESRAITQYIAHEYADKGTPLVIRDSKKMAIISLWSE
+                     VEAQKFDPAATKLTYELAIKPMFKMTTDAAVVEENEAKLAVVLDVYETRLAQSKYLAG
+                     ESFTLADLHHLPTIHYLMGTQSKKLFESRPHVLAWVVDITARPAWNKVVAQQK"
+ORIGIN      
+        1 gacaacacct ctttctcagt tgctcaaatt tcttcaattc ctcagagtca tggctgccat
+       61 caaggtccac ggaaacgtta tttcgaccgc tgcaatgcga gtttttgcta ctctctacga
+      121 gaaagacatc gaattcgagc ttgttccaat cgacatgaga gctggtgaac acaaaaagga
+      181 gcccttcata tccctcaatc catttggtca agttccagct ttcgaagacg gagatcttaa
+      241 gctctttgaa tcaagggcga ttacacaata cattgcccac gagtatgctg acaagggaac
+      301 ccctctagtg atccgagact caaagaagat ggcaattata tcattgtggt cggaggtgga
+      361 ggcccaaaag ttcgacccgg cggccacaaa actgacctat gagctagcta taaagcctat
+      421 gtttaaaatg accacagacg cggcagttgt ggaggaaaat gaagccaagt tggctgtggt
+      481 tcttgatgta tatgagactc gtctggctca gtcgaaatac ttggcaggtg aaagcttcac
+      541 tttggctgat cttcaccacc tccccaccat acattacttg atgggaacgc aatcgaagaa
+      601 gctgttcgaa tcccgccccc atgttctcgc atgggtggtg gacatcacag caaggccagc
+      661 ttggaacaaa gtcgttgccc agcaaaagtg aaacaagtac taaagcttgc tgctgcagct
+      721 tactcaacag agtcatatat ctacaataat atgtatgtta gttatcaaac gttcgtttga
+      781 ttttctgttt cgccgaaata attggaagac aagactctgc tactgctgct gatgcctttt
+      841 gcaaaaaaaa aaaaaaaaaa aaaaaaaa
+//
+
+LOCUS       MAUACCSYN               2004 bp    mRNA    linear   PLN 03-AUG-1995
+DEFINITION  Malus domestica 1-aminocyclopropane-1-carboxylic acid synthase
+            (ACC) mRNA, complete cds.
+ACCESSION   L31347
+VERSION     L31347.1
+KEYWORDS    1-aminocyclopropane-1-carboxylic acid synthase.
+SOURCE      Malus domestica (apple)
+  ORGANISM  Malus domestica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Rosaceae; Amygdaloideae;
+            Maleae; Malus.
+REFERENCE   1  (bases 1 to 2004)
+  AUTHORS   Lay-Yee,M. and Knighton,M.L.
+  TITLE     A full-length cDNA encoding 1-aminocyclopropane-1-carboxylate
+            synthase from apple
+  JOURNAL   Plant Physiol. 107 (3), 1017-1018 (1995)
+   PUBMED   7716231
+COMMENT     Original source text: Malus domestica.
+FEATURES             Location/Qualifiers
+     source          1..2004
+                     /organism="Malus domestica"
+                     /mol_type="mRNA"
+                     /cultivar="Golden Delicious"
+                     /db_xref="taxon:3750"
+                     /tissue_type="cortical tissue"
+                     /dev_stage="ripe fruit"
+     gene            1..2004
+                     /gene="ACC"
+     CDS             100..1521
+                     /gene="ACC"
+                     /standard_name="ACC synthase"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /codon_start=1
+                     /product="1-aminocyclopropane-1-carboxylic acid synthase"
+                     /protein_id="AAA73941.1"
+                     /translation="MRMLSRNATFNSHGQDSSYFLGWQEYEKNPYHEVHNTNGIIQMG
+                     LAENQLCFDLLESWLAKNPEAAAFKKNGESIFAELALFQDYHGLPAFKKAMVDFMAEI
+                     RGNKVTFDPNHLVLTAGATSANETFIFCLADPGEAVLIPTPYYPGFDRDLKWRTGVEI
+                     VPIHCTSSNGFQITETALEEAYQEAEKRNLRVKGVLVTNPSNPLGTTMTRNELYLLLS
+                     FVEDKGIHLISDEIYSGTAFSSPSFISVMEVLKDRNCDENSEVWQRVHVVYSLSKDLG
+                     LPGFRVGAIYSNDDMVVAAATKMSSFGLVSSQTQHLLSAMLSDKKLTKNYIAENHKRL
+                     KQRQKKLVSGLQKSGISCLNGNAGLFCWVDMRHLLRSNTFEAEMELWKKIVYEVHLNI
+                     SPGSSCHCTEPGWFRVCFANLPERTLDLAMQRLKAFVGEYYNVPEVNGGSQSSHLSHS
+                     RRQSLTKWVSRLSFDDRGPIPGR"
+     polyA_site      2004
+                     /gene="ACC"
+ORIGIN      
+        1 atccaaaacc aaaacctcaa actctctctc tattgctttc tcttcctttc cacacttctt
+       61 tcttacagct tgtatccata cacaagaaaa ttaaccaaaa tgcgcatgtt atccagaaac
+      121 gctacgttca actctcacgg ccaagactcc tcctacttct taggttggca agagtatgag
+      181 aagaacccct accatgaggt ccacaacaca aacgggatta ttcagatggg tctagcagaa
+      241 aatcagctct gttttgatct tctcgagtca tggctggcta agaatccaga agcagctgca
+      301 tttaaaaaaa atggagaatc catatttgca gagcttgctc tcttccaaga ttatcatggc
+      361 cttcccgcgt tcaaaaaggc aatggtagat ttcatggcgg aaatccgagg gaacaaagtg
+      421 acctttgatc ccaaccactt agtgctcacc gccggtgcaa cttcagcgaa tgagaccttt
+      481 attttctgcc ttgctgaccc cggcgaagcc gttcttattc ctaccccata ctacccagga
+      541 tttgatagag accttaagtg gcgaactgga gtcgagattg tacccattca ctgcacaagc
+      601 tccaatggct tccaaattac tgaaaccgct ctggaagaag cctaccaaga agccgaaaaa
+      661 cgcaatctca gagtcaaagg agtcttggtc acgaacccat caaacccatt gggcaccaca
+      721 atgaccagaa acgaactcta cctcctcctt tccttcgttg aagacaaggg catccacctc
+      781 attagcgatg aaatttactc cggcacagct tttagctccc catcctttat aagcgtcatg
+      841 gaagttctca aagataggaa ctgtgatgag aattccgaag tttggcagcg agttcacgtt
+      901 gtctatagcc tctctaagga tcttggcctt ccgggttttc gagttggcgc catctactcc
+      961 aacgacgaca tggttgtggc cgccgctaca aaaatgtcaa gctttggtct tgtttcttct
+     1021 caaactcagc accttctctc cgccatgcta tccgacaaaa aactcactaa gaactacata
+     1081 gccgagaacc acaaaagact caaacaacgt cagaaaaagc tcgtctccgg ccttcagaaa
+     1141 tctggcatta gctgcctcaa cggcaatgct ggcttgttct gttgggtgga tatgaggcac
+     1201 ttgcttaggt ccaacacctt tgaagccgaa atggagctct ggaaaaagat tgtatacgaa
+     1261 gttcacctca atatatctcc tggatcgtct tgtcattgca cggaacctgg ttggttccgt
+     1321 gtctgctttg ccaacttgcc cgagagaact ctggacttgg caatgcagag actgaaggca
+     1381 tttgtggggg agtattacaa cgtccctgag gtcaatggcg gcagccaaag cagccattta
+     1441 agccactcaa gaagacagtc gctcacaaag tgggtttccc ggctatcctt cgatgaccgc
+     1501 ggtcctattc ccggtagatg aaaggtagcc tggtctgagt acaagaaacc gctaaggaaa
+     1561 attacatttt agaccaaaca ttttttctgc caaaaagtta attggttgaa tttttttttc
+     1621 gttttagttt ttttttttct ccgaatgtag agaagtgcac acggtccgtg tttggggatg
+     1681 tgaagtggct ttcgcttcat ttgtaaaaag ggtgtgttat ccacataccc tatttgactt
+     1741 ctcacatacc ttttgattat ttctgtccct tgatcttctt taattcatcc gattggacga
+     1801 ccgaaaatta aaaaagtgtg tgagaagtaa aatggggtgt gtggatatca cacccctttg
+     1861 taaaactagt tttggtgatt gtgtggcacc aaatttcctt tatgtcttcg aaaacaaaaa
+     1921 ttactccatt gtgattatga tgcattattg attctataca atgtgattag tgtaaaaaaa
+     1981 aaaaaaaaaa aaaaacaaaa aaac
+//
+
+LOCUS       AB032247                 843 bp    mRNA    linear   PLN 22-AUG-2000
+DEFINITION  Malus domestica Sh mRNA for Sh-RNase, complete cds.
+ACCESSION   AB032247
+VERSION     AB032247.1
+KEYWORDS    Sh-RNase.
+SOURCE      Malus domestica (apple)
+  ORGANISM  Malus domestica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Rosaceae; Amygdaloideae;
+            Maleae; Malus.
+REFERENCE   1
+  AUTHORS   Kitahara,K., Soejima,J., Komatsu,H., Fukui,H. and Matsumoto,S.
+  TITLE     Complete sequences of the S-genes, Sd- and Sh-RNase cDNA in apple
+  JOURNAL   HortScience 35, 712-715 (2000)
+REFERENCE   2  (bases 1 to 843)
+  AUTHORS   Kitahara,K., Soejima,J., Komatsu,H., Fukui,H. and Matsumoto,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-1999) Shogo Matsumoto, Gifu University,
+            Department of Biology, Faculty of Education; 1-1, Yanagido, Gifu,
+            Gifu 501-1193, Japan (E-mail:shmatsum@cc.gifu-u.ac.jp,
+            Tel:+81-58-293-2257, Fax:+81-58-293-2207)
+FEATURES             Location/Qualifiers
+     source          1..843
+                     /organism="Malus domestica"
+                     /mol_type="mRNA"
+                     /cultivar="Akane"
+                     /db_xref="taxon:3750"
+                     /tissue_type="stylar"
+                     /note="synonym:Malus x domestica"
+     gene            1..843
+                     /gene="Sh"
+     CDS             1..681
+                     /gene="Sh"
+                     /codon_start=1
+                     /product="Sh-RNase"
+                     /protein_id="BAA92438.1"
+                     /translation="MGTGMIYMVMMVFSLILLILPSSTVGFDYYQFTQQYQPAVCNSN
+                     PTPCKDPTDKLFTVHGLWPSNSNGNDPKYCNAQQYQTMKILEPQLVIIWPNVLNRNDH
+                     EGFWRKQWEKHGSCASSPIQNQKHYFDTVIKMYTTQKQNISEILSKANIKPGRKNRTL
+                     VDIENAIRNVINNMTPQFKCQKNTRTSLTELVEVGLCSDSNLTQFINCPRPFPRGSRY
+                     FCPTNIQY"
+ORIGIN      
+        1 atggggaccg ggatgatata tatggttatg atggtatttt cactaatttt attaatattg
+       61 ccttcgtcca cggtgggatt cgattattat caatttacgc agcaatatca gccggctgtc
+      121 tgcaactcta atccaactcc ttgtaaggat cctactgaca agttgtttac tgttcacggt
+      181 ttgtggcctt caaactcgaa tggaaatgac ccaaaatatt gcaacgcaca gcaatatcag
+      241 acgatgaaaa tactcgaacc ccagttggta attatttggc cgaacgtact caatcgaaac
+      301 gatcatgaag gcttctggcg taaacagtgg gagaaacatg gctcctgtgc gtcttcccca
+      361 atacagaacc agaagcatta ctttgataca gtaatcaaaa tgtacacaac ccagaaacaa
+      421 aacatctctg aaatcctctc aaaggcgaat ataaaaccgg gtaggaaaaa caggacactg
+      481 gtggatattg aaaatgccat acgtaatgtt atcaacaata tgacaccaca attcaagtgc
+      541 caaaagaata ctaggacatc attgactgaa ttggttgagg tcggtctttg cagcgatagc
+      601 aacttaacgc agttcataaa ttgcccccgc ccatttccac gaggatcacg gtatttctgc
+      661 cccaccaata ttcagtatta agatcgcggc tagctagtgt gtgtgtgtct gtatgtacac
+      721 atataaaata atagtagttg ccctatacac ggatgacgat ttccatatat aggatgagaa
+      781 tgtgattgta attctaacga acttggctta attaattaaa attagtacga aaaaaaaaaa
+      841 aaa
+//
+
+LOCUS       AB032246                 851 bp    mRNA    linear   PLN 22-AUG-2000
+DEFINITION  Malus domestica Sd mRNA for Sd-RNase, complete cds.
+ACCESSION   AB032246
+VERSION     AB032246.1
+KEYWORDS    Sd-RNase.
+SOURCE      Malus domestica (apple)
+  ORGANISM  Malus domestica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Rosaceae; Amygdaloideae;
+            Maleae; Malus.
+REFERENCE   1
+  AUTHORS   Kitahara,K., Soejima,J., Komatsu,H., Fukui,H. and Matsumoto,S.
+  TITLE     Complete sequences of the S-genes, Sd- and Sh-RNase cDNA in apple
+  JOURNAL   HortScience 35, 712-715 (2000)
+REFERENCE   2  (bases 1 to 851)
+  AUTHORS   Kitahara,K., Soejima,J., Komatsu,H., Fukui,H. and Matsumoto,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-1999) Shogo Matsumoto, Gifu University,
+            Department of Biology, Faculty of Education; 1-1, Yanagido, Gifu,
+            Gifu 501-1193, Japan (E-mail:shmatsum@cc.gifu-u.ac.jp,
+            Tel:+81-58-293-2257, Fax:+81-58-293-2207)
+COMMENT     Sequence updated (13-Sep-1999).
+FEATURES             Location/Qualifiers
+     source          1..851
+                     /organism="Malus domestica"
+                     /mol_type="mRNA"
+                     /cultivar="Akane"
+                     /db_xref="taxon:3750"
+                     /tissue_type="stylar"
+                     /note="synonym:Malus x domestica"
+     gene            1..851
+                     /gene="Sd"
+     CDS             67..753
+                     /gene="Sd"
+                     /codon_start=1
+                     /product="Sd-RNase"
+                     /protein_id="BAA92437.1"
+                     /translation="MGITGMIYMVTIVFSLIVLLLSSSAARYDYFQFTQQYQLAACNS
+                     KPIPCKDPPDKLFTVHGLWPSDSNGHDPVNCSKSTVDAQKLGNLTTQLEIIWPNVYNR
+                     TDHISFWDKQWNKHGTCGHPTIMNDIHYFQTVIKMYITQKQNVSKILSRAKIEPEGKP
+                     RKQVDIVNAIRKGTNDKEPKLKCQKNNQVTELVEVTLCSNRNLTGFINCPRHIPNGSR
+                     YSCPTKNILY"
+ORIGIN      
+        1 ccaccaccac ttcgaatcga tcaaattagt aattaatctg cctcgctctt cgactaatat
+       61 tattcaatgg ggattacggg gatgatatat atggttacga tagtattttc attaattgtt
+      121 ttactattgt cttcgtccgc ggcgagatac gattattttc aatttacgca gcagtatcag
+      181 ttggctgcct gcaactctaa acctattcct tgtaaggatc ctcctgacaa gttgtttacg
+      241 gttcacggtt tgtggccttc agactcgaat ggacatgacc cagtaaattg cagtaaatca
+      301 accgtggatg ctcagaagtt aggaaatctg acaactcagt tggaaataat ttggccgaac
+      361 gtatacaatc gaaccgatca tataagcttc tgggataaac agtggaacaa acatggcacc
+      421 tgtggacatc ccacaataat gaacgacatt cattactttc aaacagtaat caaaatgtac
+      481 ataacccaga aacaaaacgt ctctaaaatc ctctcaaggg cgaagattga accggagggg
+      541 aaacccagga aacaggtaga tattgtaaat gccatacgca aaggtacaaa cgataaggaa
+      601 ccaaaactca agtgccaaaa gaataaccag gtgactgaat tggttgaggt cactctttgc
+      661 agtaatcgca acctaacggg gttcataaat tgcccccgcc atattccaaa tggatcacga
+      721 tattcctgcc ccaccaaaaa tattctgtat taagagcgct gctagctata tatatagacg
+      781 ggtgaccatt tccatataat gaataacttg gcttaattaa ttaaactcat gtgaatatga
+      841 aaaaaaaaaa a
+//
+
+LOCUS       D87670                  1782 bp    DNA     linear   PLN 07-FEB-1999
+DEFINITION  Malus domestica DNA for polyphenol oxidase, complete cds.
+ACCESSION   D87670
+VERSION     D87670.1
+KEYWORDS    polyphenol oxidase.
+SOURCE      Malus domestica (apple)
+  ORGANISM  Malus domestica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Rosaceae; Amygdaloideae;
+            Maleae; Malus.
+REFERENCE   1
+  AUTHORS   Haruta,M., Murata,M., Hiraide,A., Kadokura,H., Yamasaki,M.,
+            Sakuta,M., Shimizu,S. and Homma,S.
+  TITLE     Cloning genomic DNA encoding apple polyphenol oxidase and
+            comparison of the gene product in Escherichia coli and in apple
+  JOURNAL   Biosci. Biotechnol. Biochem. 62 (2), 358-362 (1998)
+   PUBMED   9532795
+REFERENCE   2  (bases 1 to 1782)
+  AUTHORS   Haruta,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-SEP-1996) Miyoshi Haruta, Ochanomizu University,
+            Nutrion and Food Science; 2-1-1 Otsuka, Bunkyo-Ku, Tokyo 112-0012,
+            Japan (E-mail:miyoshi@fs.cc.ocha.ac.jp, Tel:03-5978-5753,
+            Fax:03-5978-5899)
+FEATURES             Location/Qualifiers
+     source          1..1782
+                     /organism="Malus domestica"
+                     /mol_type="genomic DNA"
+                     /cultivar="Fuji"
+                     /db_xref="taxon:3750"
+                     /clone="PPO7"
+     CDS             1..1782
+                     /EC_number="1.10.3.1"
+                     /codon_start=1
+                     /product="polyphenol oxidase"
+                     /protein_id="BAA21677.1"
+                     /translation="MTSLSPPVVTTPTVPNPDTKPLSPFSQNNSQVSLLTKPKRSFGR
+                     KVSCKDTNNDEIDQAQSKLERRNVLLGLGGLYGVGGMDTDPRGWGKAIAPPDVSKCGP
+                     ADLPQGGVPTICCPPRSTKIIDFKLPAPAKLRIRPPAHAGDQAYRDKHYKAMELMKAL
+                     PDDDPRSFKQQGAVHCAYCDGAYDQVGFPELELQIHNSWLFFPLHRYYLYFFEKILGK
+                     LINDPTFAGPFWNWDSPAGMPLPAIYADPKSPLYDKLRSAQHQPPTLVDLDYNGTEDN
+                     VSKETTINANLKIMYRQMVSNSKNAKLFFGNPYRAGDEPDPGGGSIEGTPHAPVHLWT
+                     GDNTQPNFEDMGNFYSAGRDPIFFAHHSNVDRMWSIWKTLGGKRADLTDSDWLDSGFL
+                     FYNENAELVRVKVRDCLETKNLGYVYQDVDIPWLSSKPTPRRAKVALSKIAKKLGVAH
+                     AAVASSSKVVAGTEFPINLGSKISTVVKRPKQKKRSKKAKEDEEEILVIEGIEFDRDV
+                     AVKFDVYVNDVDDLPSGPDKTEFAGSFVSVPHSHKHKKKMNTILRLGLTDLLEEIEAE
+                     DDDSVVVTLVPKFGAVKIGGIKIEFAS"
+     transit_peptide 1..267
+     misc_feature    586..696
+                     /note="copper binding site"
+     misc_feature    979..1002
+                     /note="copper binding site"
+ORIGIN      
+        1 atgacgtctc tttcacctcc ggtagtcacc acccccaccg ttcccaaccc cgacacaaaa
+       61 cctctctccc ccttctctca aaacaactcc caagtttccc tactcacaaa gcccaagcgt
+      121 tcctttggac gtaaggtctc atgcaaagac acaaacaatg acgaaattga tcaagcacag
+      181 tccaaactag agaggagaaa tgtgcttctt ggtcttgggg gtctatacgg cgtggggggt
+      241 atggacacag acccgcgcgg ttggggcaag gctatagccc caccagacgt ttctaaatgt
+      301 ggccctgcag acttaccaca gggtggagtg cccaccatct gctgcccgcc gcgttccaca
+      361 aaaatcattg actttaagct gcctgccccc gccaaactcc gtatcaggcc accggctcac
+      421 gccggggacc aagcctacag ggacaaacac tacaaggcga tggagctcat gaaggcccta
+      481 cccgacgacg acccacgtag tttcaagcaa cagggagccg tgcattgcgc ttattgcgac
+      541 ggcgcctatg accaagtcgg gttcccagaa ctcgagctcc aaatccacaa ctcatggctc
+      601 ttcttcccgc tccaccgtta ctacttgtac tttttcgaga agatcctagg caaactcatt
+      661 aacgacccga cattcgctgg gccgttctgg aactgggact cgccagccgg catgccactg
+      721 cccgcgattt acgctgatcc aaagtcccct ctctacgaca agctccgatc tgcccaacat
+      781 cagcccccga ctctggtcga tctcgattac aacgggaccg aggacaatgt gtcaaaggaa
+      841 accacaatca acgccaatct caaaatcatg tacaggcaaa tggtgtccaa ttccaagaat
+      901 gctaagttgt tctttgggaa cccgtacagg gcaggggacg agcctgaccc tggtggcggc
+      961 tccatcgagg ggacaccaca cgcgccggtt catttatgga ccggtgacaa cacccagccc
+     1021 aactttgagg acatggggaa tttttactcc gctggtcggg accccatatt ttttgcacac
+     1081 cattcgaatg tcgatcgaat gtggagtatt tggaaaactc ttggaggtaa gagagctgat
+     1141 cttactgact cggactggtt ggactccgga ttcttgtttt acaacgagaa cgcagagtta
+     1201 gtccgagtca aggtcaggga ctgcttggag accaaaaatc ttgggtatgt ataccaagat
+     1261 gtggacattc cttggctcag ctcgaagcca acaccgcgaa gggcgaaagt tgcattgagc
+     1321 aaaatagcga agaagctggg agttgcacac gcagctgttg cgtcgtccag caaggtggtg
+     1381 gcaggcactg agttcccgat aaatctgggg tcgaagataa gcacggtggt gaagagaccg
+     1441 aagcagaaga agagaagcaa gaaggccaag gaggatgagg aggagatatt ggtgattgag
+     1501 ggaatcgagt ttgacaggga cgtggctgtg aagtttgatg tgtatgtgaa tgacgtcgat
+     1561 gacttgccga gtgggcctga caagacggaa tttgccggaa gctttgtaag tgtgccgcac
+     1621 agccacaagc acaagaagaa gatgaacact attttgaggt tagggttgac agatttgttg
+     1681 gaggaaattg aggcggagga cgatgacagc gtggtggtga ctttggtgcc caagttcggc
+     1741 gctgtcaaga ttggtggtat caagattgaa tttgcttctt ag
+//
+
