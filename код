@@ -1,0 +1,14 @@
+import statsmodels.api as sm
+import matplotlib.pyplot as plt
+data = sm.datasets.interest_inflation.load_pandas().data
+print(data.head())
+print(data.columns)
+filtered_data = data[(data['year'] >= 1980) & (data['year'] <= 1990)]
+print(filtered_data)
+plt.plot(filtered_data['year'], filtered_data['Dp'], label='Dp', color='blue')
+plt.plot(filtered_data['year'], filtered_data['R'], label='R', color='green')
+plt.xlabel('Year')
+plt.ylabel('Values')
+plt.title('Time Series for Dp and R (1980–1990)')
+plt.legend()
+plt.grid(True)
