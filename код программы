@@ -1,0 +1,16 @@
+def find_substring(s, t):
+    positions = []
+    n = len(s)
+    m = len(t)
+
+    for i in range(n - m + 1): 
+        if s[i:i + m] == t:
+            positions.append(i) 
+    return positions
+
+s = input("Введите строку ДНК s: ")
+t = input("Введите строку ДНК t: ")
+
+positions = find_substring(s, t)
+
+print(" ".join(map(str, positions)))
