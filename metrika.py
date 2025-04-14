@@ -22,7 +22,7 @@ class YandexMetrikaAPI:
             raise Exception(f"Error: {response.status_code}, {response.text}")
 
 # Использование
-token = y0__xDUy6v_BhiC-jYgi6a75xJW4hmIcBNWtS76ECSaNM1E4u2iyg
+token = y0__xDS7ar3AxiC-jYgoeLD6RKiVs2PKqYlwdBNx-EOxbNOqavC3w
 counter_id = 101037628
 metrics = "ym:s:visits,ym:s:pageviews,ym:s:users"
 
