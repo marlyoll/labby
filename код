@@ -1,0 +1,22 @@
+from Bio import SeqIO
+import os
+
+file_path = r"C:\Users\Елизавета\Downloads\sequence.gb"
+
+if not os.path.exists(file_path):
+    print(f"Ошибка: файл не найден по пути {file_path}")
+else:
+    for record in SeqIO.parse(file_path, "genbank"):
+        print(f"\n{record.id}: {record.description}")
+        for feat in record.features:
+            if feat.type != "CDS": continue
+            if 'translation' in feat.qualifiers:
+                prot = feat.qualifiers['translation'][0]
+            else:
+                seq = feat.extract(record.seq)
+                if feat.strand == -1: 
+                    seq = seq.reverse_complement()
+                prot = str(seq.translate(to_stop=True))
+
+            loc = f"[{feat.location.start}:{feat.location.end}]({'+-'[feat.strand<0]})"
+            print(f"Coding sequence: {loc}\n{prot}")
