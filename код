@@ -1,0 +1,19 @@
+import statsmodels.api as sm
+import matplotlib.pyplot as plt
+import pandas as pd
+data = {
+    'popul': [0.0, 190.0, 31.0, 83.0, 640.0],
+    'TVnews': [7.0, 1.0, 7.0, 4.0, 7.0],
+    'age': [36.0, 20.0, 24.0, 28.0, 68.0],
+    'vote': [1.0, 0.0, 0.0, 0.0, 0.0],
+    'logpopul': [-2.302585, 5.247550, 3.437208, 4.420045, 6.461624]
+}
+df = pd.DataFrame(data)
+plt.scatter(df['TVnews'], df['age'], color='blue', label='TVnews vs Age')
+plt.scatter(df['age'], df['vote'], color='green', label='Age vs Vote')
+plt.xlabel('Значения (TVnews, Age)')
+plt.ylabel('Значения (Vote, Age)')
+plt.title('Диаграммы рассеяния')
+plt.legend()
+plt.grid(True)
+plt.show()
