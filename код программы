@@ -1,0 +1,11 @@
+def generate_kmers(alphabet, n, current=""):
+    if len(current) == n:
+        print(current)
+        return
+    for char in alphabet:
+        generate_kmers(alphabet, n, current + char)
+
+input_alphabet = input("Введите алфавит (через пробел): ").split()
+n = int(input("Введите длину строк (n): "))
+
+generate_kmers(sorted(input_alphabet), n)
